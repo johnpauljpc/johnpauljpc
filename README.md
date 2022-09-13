@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @johnpauljpc
+- 👋 I am a web developer
 - 👀 I’m interested Web development using Django/Python
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
