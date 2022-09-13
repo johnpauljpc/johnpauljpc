@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnpauljpc
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning Flutter/Darts
+- 👀 I’m interested Web development using Django/Python
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
