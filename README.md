@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnpauljpc
+- 👋 Hi, I’m Johnpaul
 - 👋 I am a backend web developer
 - 👀 I’m interested in Web development using Django/Python
 - 🌱 I’m currently learning frontend development
