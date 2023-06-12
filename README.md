@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnpauljpc
-- 👋 I am a web developer
-- 👀 I’m interested Web development using Django/Python
-- 🌱 I’m currently learning javascript
+- 👋 I am a backend web developer
+- 👀 I’m interested in Web development using Django/Python
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 👉 +234 8109137270
 
