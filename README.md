@@ -36,9 +36,10 @@ I’m a passionate backend developer specializing in building robust, scalable, 
 ---
 
 ## 📈 GitHub Stats
-![Johnpaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnpauljpc&show_icons=true&hide_border=true&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=johnpauljpc&theme=dark)](https://git.io/streak-stats) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnpauljpc&layout=compact&hide_border=true&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnpauljpc&theme=github-compact) 
+![Languages](https://metrics.lecoq.io/johnpauljpc?template=classic&languages=1&languages.limit=6)
 
 ---
 
