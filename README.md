@@ -7,10 +7,10 @@ I’m a passionate backend developer specializing in building robust, scalable, 
 ---
 
 ## 💼 About Me
-- 🔹 Backend-focused web developer with hands-on experience in Django and REST APIs  
-- 🔹 Proficient in **Python**, **Django**, and **JavaScript**  
-- 🔹 Skilled in database design, API development, and scalable application architecture  
-- 🔹 Enthusiastic about continuous learning, and tech community engagement  
+-  Backend-focused web developer with hands-on experience in Django and REST APIs  
+-  Proficient in **Python**, **Django**, and **JavaScript**  
+-  Skilled in database design, API development, and scalable application architecture  
+-  Enthusiastic about continuous learning, and tech community engagement  
 
 ---
 
@@ -47,16 +47,16 @@ I’m a passionate backend developer specializing in building robust, scalable, 
 ---
 
 ## 📈 GitHub Stats
-![Chigozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=radical)  
+![Chigozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnpauljpc&show_icons=true&hide_border=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnpauljpc&layout=compact&hide_border=true&theme=radical)  
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- LinkedIn: [linkedin.com/in/johnpaul-chigozie-gabriel](https://www.linkedin.com/in/johnpaul-chigozie-gabriel/)  
 - Twitter: [@iam_johnpauljp](https://twitter.com/iam_johnpauljp)  
-- Email: your.email@example.com  
+- Email: jpcwork081@gmail.com  
 
 ---
 
