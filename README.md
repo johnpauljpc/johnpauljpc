@@ -37,7 +37,7 @@ I’m a passionate backend developer specializing in building robust, scalable, 
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=johnpauljpc&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=johnpauljpc&theme=radical&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnpauljpc&theme=github-compact)
 
