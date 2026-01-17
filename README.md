@@ -39,6 +39,12 @@ I’m a passionate backend developer specializing in building robust, scalable, 
 
 ---
 
+## Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8cd500dd-386d-43f6-bfd8-65106f1c34e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+
 ## 📈 GitHub Stats 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=johnpauljpc&theme=dark)
